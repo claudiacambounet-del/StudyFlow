@@ -1,0 +1,17 @@
+{
+    "physics": {
+        "urls": ["https://www.khanacademy.org/science/physics"],
+        "apps": ["code"],
+        "files": []
+    },
+    "math": {
+        "urls": ["https://www.khanacademy.org/math"],
+        "apps": ["code"],
+        "files": []
+    },
+    "computer science": {
+        "urls": ["https://www.khanacademy.org/computing"],
+        "apps": ["code"],
+        "files": []
+    }
+}
